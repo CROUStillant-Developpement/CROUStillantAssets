@@ -27,7 +27,7 @@ La police utilisée est : `Inter` de [Rasmus Andersson](https://rsms.me/inter/).
 CROUStillant sous licence [Apache 2.0](LICENSE).
 
 ```
-Copyright 2024 CROUStillant Développement
+Copyright 2024 - 2025 CROUStillant Développement
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
